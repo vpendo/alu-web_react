@@ -1,2 +1,1 @@
-# alu-web_react
-react development
+# alu-web_react  project
